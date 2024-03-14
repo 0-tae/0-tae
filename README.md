@@ -1,7 +1,7 @@
 
-## 만드는 중..
+## ...
 
-### Algorithm
+### Algorithm(BoJ, solved.ac)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choiyt6644)](https://solved.ac/choiyt6644)
 
 
