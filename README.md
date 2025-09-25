@@ -1,7 +1,6 @@
 # Hello world
 ## Introduce
-Name : **Yongtae Choi**
-e-mail : **choiyt3465@naver.com**
+**Yongtae Choi**, **choiyt3465@naver.com**
 
 ## Awards
 🏆 **충남대학교 CNU 생성형 인공지능 챌린지** - **금상** (2025.09)  
