@@ -1,5 +1,6 @@
 # Hello world
 ## Introduce
+I'm interested in backend engineering and LLM services.
 Explores problems in Server and AI Agent user experience (UX) and finds and solves improvements.
 
 **Yongtae Choi**, **choiyt3465@naver.com**
@@ -14,11 +15,12 @@ Explores problems in Server and AI Agent user experience (UX) and finds and solv
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-007B9F?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4785?style=for-the-badge&logo=database&logoColor=white)
 
 ### Database
