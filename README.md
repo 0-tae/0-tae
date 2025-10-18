@@ -1,8 +1,6 @@
 # Hello world
 ## Introduce
-I'm interested in backend engineering and LLM services.
-
-Explores problems in Server and AI Agent user experience (UX) and finds and solves improvements.
+I’m interested in backend engineering and LLM-based services, focusing on improving server performance and AI agents.
 
 **Yongtae Choi**, **choiyt3465@naver.com**
 
