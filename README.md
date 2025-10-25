@@ -14,12 +14,11 @@ I’m interested in backend engineering and LLM-based services, focusing on impr
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-007B9F?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### LLM
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-007B9F?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4785?style=for-the-badge&logo=database&logoColor=white)
 
 ### Database
